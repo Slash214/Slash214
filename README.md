@@ -1,5 +1,17 @@
-# Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=520&lines=%E7%88%B1%E5%91%B5%E5%91%B5%E6%9D%A5%E5%92%AF+)](https://git.io/typing-svg)
+## Hi there 👋
+<!-- 动态打字效果 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=435&lines=%E7%88%B1%E5%91%B5%E5%91%B5%E6%9D%A5%E5%92%AF+)](https://git.io/typing-svg)
+<!-- 个人资料徽标 -->
+<div align="left">
+  <a href="https://slashboy.coding.net/user"><img src="https://img.shields.io/badge/CODING-CODING-yellowgreen"></a>&emsp;
+  <a href="https://lovehaha.cn/"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-website-lightgrey" ></a>&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%96%9C%E6%9D%A0boy-orange"></a>&emsp;
+  <a href="https://juejin.cn/user/3456520290311053"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-juejin-blue"></a>&emsp;
+  
+</div>
+<!-- 贪吃蛇代码贡献图 -->
+<div align="left"><img src="https://cdn.jsdelivr.net/gh/susu-hu/susu-hu/img/github-snake.svg" /></div>
 
 <div align="left">
   <a href="https://slashboy.coding.net/user"><img src="https://img.shields.io/badge/CODING-CODING-yellowgreen" alt="CODING"></a>&emsp;
@@ -25,6 +37,7 @@
 - 写技术文章、做调试笔记，把踩过的坑记录下来供他人参考。  
 - 把视听内容做得更好：短视频剪辑 / 简单动效制作（Premiere / After Effects）。  
 - 偶尔玩玩侧项目，把学到的技术整合成能交付的小工具。
+- 演唱会，live house，听歌，去发现。
 
 ---
 
@@ -35,7 +48,7 @@
 - 构建与工具链：Vite / Webpack / Rollup / ESLint / Prettier
 
 ### 后端 & 数据
-- Node.js / Express / RESTful API 设计  
+- Node.js / 脚本开发 / RESTful API 设计  
 - 数据：MySQL（常见增删改查与索引优化）
 
 ### 语言 & 平台
@@ -44,6 +57,7 @@
 
 ### 多媒体 & 设计
 - Adobe Premiere / Photoshop / After Effects（用于制作技术视频/封面/动效）
+
 
 ---
 
@@ -64,9 +78,10 @@
 ---
 
 ## 📫 联系我
-- 公众号：**斜杠boy**（技术分享）  
+- 公众号：**斜杠boy**（技术分享）
+- 邮箱账号：1783331467@qq.com
 - 个人网站：lovehaha.cn  
-- 掘金：[@你的掘金名字](https://juejin.cn/user/3456520290311053)  
+- 掘金：[@Vgplay]([https://juejin.cn/user/3456520290311053](https://juejin.cn/user/3456520290311053))  
 - Coding：slashboy（Coding 主页）
 
 ---
